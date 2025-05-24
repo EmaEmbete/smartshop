@@ -1,0 +1,5 @@
+/* Affiche le sous-menu au survol */
+.navbar .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* évite un léger décalage */
+  }
