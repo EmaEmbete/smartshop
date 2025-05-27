@@ -183,7 +183,7 @@ function Utilisateur (){
                                 />
                                 <div className="row justify-content-center">
                                 <div className="col-md-7">
-                                        <p> Avez-vous un Compte ? <NavLink to="/logs"> Se Connecter
+                                        <p> Avez-vous un Compte ? <NavLink to="/"> Se Connecter
                                         </NavLink> </p>
                                     </div>
                                     <div className="col-md-4">

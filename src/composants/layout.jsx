@@ -4,7 +4,7 @@ import Footers from "./footer";
 
 const Layout = ({children}) =>{
     const location = useLocation();
-    const cacher = ["/logs","/clients"];
+    const cacher = ["/logs","/clients","*"];
 
     return (
         <>

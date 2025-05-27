@@ -1,4 +1,7 @@
-
+/*background pour toutes les pages */
+*{
+  background-color: gray;
+}
 /*Pages Clients */
 
 
